@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\bin\Debug\net7.0\13.ThreadAbort.exe
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\bin\Debug\net7.0\13.ThreadAbort.deps.json
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\bin\Debug\net7.0\13.ThreadAbort.runtimeconfig.json
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\bin\Debug\net7.0\13.ThreadAbort.dll
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\bin\Debug\net7.0\13.ThreadAbort.pdb
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\13.ThreadAbort.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\13.ThreadAbort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\13.ThreadAbort.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\13.ThreadAbort.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\13.ThreadAbort.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\13.ThreadAbort.dll
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\refint\13.ThreadAbort.dll
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\13.ThreadAbort.pdb
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\13.ThreadAbort.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson19.Threads\13.ThreadAbort\obj\Debug\net7.0\ref\13.ThreadAbort.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\bin\Debug\net6.0\01.Threads.exe
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\bin\Debug\net6.0\01.Threads.deps.json
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\bin\Debug\net6.0\01.Threads.runtimeconfig.json
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\bin\Debug\net6.0\01.Threads.dll
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\bin\Debug\net6.0\01.Threads.pdb
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\01.Threads.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\01.Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\01.Threads.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\01.Threads.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\01.Threads.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\01.Threads.dll
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\refint\01.Threads.dll
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\01.Threads.pdb
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\01.Threads.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson19.Threads\01.Threads\obj\Debug\net6.0\ref\01.Threads.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\bin\Debug\net6.0\15.Priority.exe
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\bin\Debug\net6.0\15.Priority.deps.json
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\bin\Debug\net6.0\15.Priority.runtimeconfig.json
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\bin\Debug\net6.0\15.Priority.dll
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\bin\Debug\net6.0\15.Priority.pdb
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\15.Priority.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\15.Priority.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\15.Priority.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\15.Priority.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\15.Priority.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\15.Priority.dll
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\refint\15.Priority.dll
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\15.Priority.pdb
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\15.Priority.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson19.Threads\15.Priority\obj\Debug\net6.0\ref\15.Priority.dll

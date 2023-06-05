@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\bin\Debug\net6.0\16.Interlocked.exe
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\bin\Debug\net6.0\16.Interlocked.deps.json
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\bin\Debug\net6.0\16.Interlocked.runtimeconfig.json
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\bin\Debug\net6.0\16.Interlocked.dll
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\bin\Debug\net6.0\16.Interlocked.pdb
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\16.Interlocked.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\16.Interlocked.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\16.Interlocked.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\16.Interlocked.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\16.Interlocked.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\16.Interlocked.dll
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\refint\16.Interlocked.dll
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\16.Interlocked.pdb
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\16.Interlocked.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson19.Threads\16.Interlocked\obj\Debug\net6.0\ref\16.Interlocked.dll

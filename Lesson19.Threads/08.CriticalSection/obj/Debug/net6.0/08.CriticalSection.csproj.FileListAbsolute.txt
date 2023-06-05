@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\bin\Debug\net6.0\08.CriticalSection.exe
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\bin\Debug\net6.0\08.CriticalSection.deps.json
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\bin\Debug\net6.0\08.CriticalSection.runtimeconfig.json
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\bin\Debug\net6.0\08.CriticalSection.dll
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\bin\Debug\net6.0\08.CriticalSection.pdb
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\08.CriticalSection.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\08.CriticalSection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\08.CriticalSection.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\08.CriticalSection.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\08.CriticalSection.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\08.CriticalSection.dll
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\refint\08.CriticalSection.dll
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\08.CriticalSection.pdb
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\08.CriticalSection.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson19.Threads\08.CriticalSection\obj\Debug\net6.0\ref\08.CriticalSection.dll

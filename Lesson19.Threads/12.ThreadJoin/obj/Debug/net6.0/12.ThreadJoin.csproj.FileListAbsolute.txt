@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\bin\Debug\net6.0\12.ThreadJoin.exe
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\bin\Debug\net6.0\12.ThreadJoin.deps.json
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\bin\Debug\net6.0\12.ThreadJoin.runtimeconfig.json
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\bin\Debug\net6.0\12.ThreadJoin.dll
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\bin\Debug\net6.0\12.ThreadJoin.pdb
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\12.ThreadJoin.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\12.ThreadJoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\12.ThreadJoin.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\12.ThreadJoin.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\12.ThreadJoin.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\12.ThreadJoin.dll
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\refint\12.ThreadJoin.dll
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\12.ThreadJoin.pdb
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\12.ThreadJoin.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson19.Threads\12.ThreadJoin\obj\Debug\net6.0\ref\12.ThreadJoin.dll
